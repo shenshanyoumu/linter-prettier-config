@@ -1,0 +1,2 @@
+# linter-prettier-config
+前端开发中关于Linter工具和Prettier工具的一些配置积累
